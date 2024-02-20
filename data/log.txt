@@ -1,0 +1,17 @@
+
+2024-02-05 19:32:01.649915-list index out of range
+2024-02-17 16:38:59.135704-list index out of range
+2024-02-17 16:41:46.377949-'str' object has no attribute 'strftime'
+2024-02-17 16:41:48.281685-'ExcelGUI' object has no attribute 'replacements'
+2024-02-17 16:42:18.090872-'StringVar' object has no attribute 'get_date'
+2024-02-17 16:42:18.948446-'ExcelGUI' object has no attribute 'replacements'
+2024-02-17 16:49:16.913592-could not convert string to float: '-'
+2024-02-17 16:49:27.506189-could not convert string to float: '-'
+2024-02-17 16:54:11.107520-invalid literal for int() with base 10: '0.03'
+2024-02-17 16:54:14.458081-'ExcelGUI' object has no attribute 'replacements'
+2024-02-17 16:54:42.086618-replace() argument 2 must be str, not float
+2024-02-17 17:14:45.188426-list index out of range
+2024-02-19 21:48:19.906352-Row numbers must be between 1 and 1048576. Row number supplied was 1048577
+2024-02-19 21:49:03.710497-Row numbers must be between 1 and 1048576. Row number supplied was 1048577
+2024-02-19 21:51:15.056967-Row numbers must be between 1 and 1048576. Row number supplied was 1048577
+2024-02-19 21:51:30.277262-Row numbers must be between 1 and 1048576. Row number supplied was 1048577
